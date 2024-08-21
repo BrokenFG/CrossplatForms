@@ -28,6 +28,7 @@ See the [wiki](https://github.com/kejonaMC/CrossplatForms/wiki) for configuratio
 * Trigger Actions when existing commands are executed
 * Broad placeholder support
 
+
 ## Supported Platforms:
 
 #### For CrossplatForms on BungeeCord/Velocity: If you have both Geyser and Floodgate installed, you'll need to either:  
